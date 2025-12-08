@@ -2,10 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Prolay+Dutta+%F0%9F%91%8B;Competitive+Programmer;Web+Developer;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Prolaydutt&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Prolaydutt?label=Followers&style=social" alt="followers" />
-</p>
+</p> -->
 
 ---
 
