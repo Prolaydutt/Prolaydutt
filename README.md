@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Prolay+Dutta+%F0%9F%91%8B;
-    Competitive+Programmer;
-    Web+Developer;
-    1450%2B+on+LeetCode+%E2%9A%A1;
-    Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Prolay+Dutta+%F0%9F%91%8B;Competitive+Programmer;Web+Developer;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -49,7 +45,7 @@ const prolay = {
 </div>
 
 <p align="center">
-  <b>500+ Problems Solved</b> | <b>75%+ Acceptance Rate</b> | <b>DSA Enthusiast</b>
+  <b>500+ Problems Solved</b> | <b>85%+ Acceptance Rate</b> | <b>DSA Enthusiast</b>
 </p>
 
 ---
