@@ -14,8 +14,8 @@
 ```javascript
 const prolay = {
     location: "Kolkata, India 🇮🇳",
-    education: "CSE @ UEM'27 🎓",
-    currentFocus: ["DSA Mastery", "Full-Stack Development", "System Design"],
+    education: "CSE @ IEM'27 🎓",
+    currentFocus: ["DSA Mastery", "Web Development"],
     askMeAbout: ["Algorithms", "Web Dev", "Competitive Programming", "Tech"],
     funFact: "I debug with console.log() and I'm not ashamed! 😄",
     lifePhilosophy: "Code → Debug → Learn → Repeat 🔄"
