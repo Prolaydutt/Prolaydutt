@@ -25,10 +25,10 @@ const prolay = {
 ### 🎯 What I'm Up To
 
 - 🔭 **Building:** Full-stack web applications with React & Node.js
-- 💡 **Exploring:** GenAI integration and modern web architectures
+<!--- 💡 **Exploring:** GenAI integration and modern web architectures  -->
 - 🧠 **Sharpening:** DSA skills through daily LeetCode grind
-- 🌱 **Learning:** Advanced React patterns, System Design, and Cloud technologies
-- 🤝 **Open to:** Collaborations on innovative web projects and open source
+<!--- 🌱 **Learning:** Advanced React patterns, System Design, and Cloud technologies  -->
+- 🤝 **Open to:** Collaborations on innovative web projects 
 
 ---
 
@@ -38,9 +38,9 @@ const prolay = {
 
 | Platform | Rating | Achievement |
 |----------|--------|-------------|
-| 💚 **LeetCode** | 1450+ | Top 15% in Weekly Contests |
+| 💚 **LeetCode** | 1450+ | Top 35% in Weekly Contests |
 | ⭐ **CodeChef** | 2★ (1400+) | 20+ Rated Contests |
-| 🔵 **Codeforces** | Newbie | Active Problem Solver |
+| 🔵 **Codeforces** | Newbie (1150+) | Active Problem Solver |
 
 </div>
 
@@ -58,13 +58,13 @@ const prolay = {
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <!--<img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />  -->
 </p>
 
 ### Frontend Development
 <p>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <!-- <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> -->
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -76,7 +76,7 @@ const prolay = {
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <!--<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> -->
 </p>
 
 ### Tools & Technologies
